@@ -1,3 +1,12 @@
+NOMBRES DE INTEGRANTES:
+ABRAHAM JOSE GOMEZ SARMIENTO
+JORGE IVAN CUJIA LOPEZ
+CESAR STIVEN HERNANDEZ FUENTES
+
+
+
+
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/MKRVUeWW)
 # Clasificación de Dígitos MNIST con Redes Neuronales Convolucionales
 
